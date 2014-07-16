@@ -15,3 +15,5 @@ __author__ = "Arezqui Belaid"
 __contact__ = "areski@gmail.com"
 __homepage__ = "https://github.com/Star2Billing/django-country-dialcode"
 __docformat__ = "restructuredtext"
+
+default_app_config = 'country_dialcode.apps.CountryDialcodeConfig'
